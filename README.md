@@ -15,11 +15,9 @@
 
 <br />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=400&lines=DRIVER+PROFILE" alt="Driver Profile" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%">
 
-<br />
-
-### 🏎️ // DRIVER PROFILE
 > **Role:** Systems Engineer & AI Researcher
 > <br> **Team:** University of Alberta (Computing Science)
 > <br> **Focus:** Low-Latency Systems, Game Algorithms, Service-Oriented Architecture
@@ -27,7 +25,8 @@
 
 <br />
 
-### 🛠️ // THE GARAGE (PROJECTS)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=400&lines=THE+GARAGE+(PROJECTS)" alt="The Garage" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%">
 
 | **Class** | **Project Specification** | **Tech Specs** |
 | :--- | :--- | :--- |
@@ -38,11 +37,8 @@
 
 <br />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=400&lines=TELEMETRY+(SKILLS)" alt="Telemetry" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%">
-
-<br />
-
-### 📊 // TELEMETRY (SKILLS)
 
 | **Sector** | **Data** |
 | :--- | :--- |
@@ -52,7 +48,9 @@
 
 <br />
 
-### ⏱️ // CURRENT LAP
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=400&lines=CURRENT+LAP" alt="Current Lap" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%">
+
 > **Current Objective:** Architecting Service-Oriented Middleware & AI Search Planners.
 > <br> **Learning:** 3D Modeling Pipelines, Game Algorithms, & Modern Web Arch.
 > <br> **Reading:** *Reinforcement Learning: An Introduction* (Sutton & Barto).
@@ -60,11 +58,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujjawalsuii&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<br />
-
-<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/RACE%20STATUS-FINISHED-FF2800?style=for-the-badge&labelColor=1a1a1a" />
+  <br><br>
   <sub><i>"Second is the first of the losers." – Ayrton Senna</i></sub>
 </div>
