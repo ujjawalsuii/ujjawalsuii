@@ -6,10 +6,10 @@
     <i>"Be the best at everything, no matter what."</i>
   </p>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ujjawalps2006">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@ualberta.ca">
+  <a href="mailto:ujjawalpratap1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -49,8 +49,8 @@ I don't just write code; I engineer **performance**. Whether it's manually manag
 ### 📊  **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjawalsuii&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalsuii&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <br />
