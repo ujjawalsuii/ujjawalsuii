@@ -39,7 +39,7 @@ I don't just write code; I engineer **performance**. Whether it's manually manag
 ### 💻  **Technical Arsenal**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,cpp,androidstudio,firebase,mongodb,git,linux,vim" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,androidstudio,firebase,mongodb,git,linux,vim" />
 </div>
 
 <br />
