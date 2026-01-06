@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=FF2800&center=true&vCenter=true&width=600&lines=SYSTEMS+ENGINEER;PERFORMANCE+ARCHITECT;MAXING+OUT+THE+LIMITS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=FF2800&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEER;SYSTEMS+ENGINEER;PERFORMANCE+ARCHITECT;MAXING+OUT+THE+LIMITS" alt="Typing SVG" />
   
   <p style="font-family: monospace; color: #888;">
     <i>"Be the best at everything, no matter what."</i>
@@ -32,10 +32,10 @@
 
 | **Class** | **Project Specification** | **Tech Specs** |
 | :--- | :--- | :--- |
-| **GRAPHICS** | **[C-Ray Engine](https://github.com/ujjawalsuii/c-ray-engine)** <br> *Physics-based ray tracer built from scratch.* | `C` `Manual Memory` `Linear Algebra` |
-| **R&D / AI** | **[RL Core](https://github.com/ujjawalsuii/rl-core)** <br> *Advanced Actor-Critic & Tile Coding library.* | `Python` `NumPy` `Sutton-Barto Math` |
-| **COMPILER** | **[RISC-V Translator](https://github.com/ujjawalsuii/rv-to-wasm)** <br> *Assembly to WebAssembly static translator.* | `C` `WASM` `LEB128 Encoding` |
-| **MOBILE** | **[Event Lottery](https://github.com/CMPUT301F25aurora/aurora-borealis)** <br> *High-concurrency Android event system.* | `Java` `Android SDK` `Firebase` |
+| **GRAPHICS** | **[C-Ray Engine](https://github.com/ujjawalsuii/c-ray-engine)** <br> *Physics-based ray tracer built from scratch.* | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **R&D / AI** | **[RL Core](https://github.com/ujjawalsuii/rl-core)** <br> *Advanced Actor-Critic & Tile Coding library.* | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **COMPILER** | **[RISC-V Translator](https://github.com/ujjawalsuii/rv-to-wasm)** <br> *Assembly to WebAssembly static translator.* | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![WASM](https://img.shields.io/badge/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white) |
+| **MOBILE** | **[Event Lottery](https://github.com/CMPUT301F25aurora/aurora-borealis)** <br> *High-concurrency Android event system.* | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 
 <br />
 
