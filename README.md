@@ -15,8 +15,11 @@
 
 <br />
 
+---
+
+<br />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=400&lines=DRIVER+PROFILE" alt="Driver Profile" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%">
 
 > **Role:** Systems Engineer & AI Researcher
 > <br> **Team:** University of Alberta (Computing Science)
@@ -26,7 +29,6 @@
 <br />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=400&lines=THE+GARAGE+(PROJECTS)" alt="The Garage" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%">
 
 | **Class** | **Project Specification** | **Tech Specs** |
 | :--- | :--- | :--- |
@@ -38,7 +40,6 @@
 <br />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=400&lines=TELEMETRY+(SKILLS)" alt="Telemetry" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%">
 
 | **Sector** | **Data** |
 | :--- | :--- |
@@ -49,7 +50,6 @@
 <br />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&width=400&lines=CURRENT+LAP" alt="Current Lap" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="100%">
 
 > **Current Objective:** Architecting Service-Oriented Middleware & AI Search Planners.
 > <br> **Learning:** 3D Modeling Pipelines, Game Algorithms, & Modern Web Arch.
