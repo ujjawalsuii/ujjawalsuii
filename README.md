@@ -55,10 +55,9 @@
 > <br> **Learning:** 3D Modeling Pipelines, Game Algorithms, & Modern Web Arch.
 > <br> **Reading:** *Reinforcement Learning: An Introduction* (Sutton & Barto).
 
-<br />
+<br>
 
 <div align="center">
-  <br>
   <img src="https://img.shields.io/badge/RACE%20STATUS-FINISHED-FF2800?style=for-the-badge&labelColor=1a1a1a" />
   <br><br>
   <sub><i>"Second is the first of the losers." – Ayrton Senna</i></sub>
