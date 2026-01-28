@@ -34,23 +34,49 @@
 ### 🏎️ DRIVER TELEMETRY
 
 <div align="center">
-  <table width="100%" style="border: 0; background-color: #0d1117;">
+  <table border="0" width="100%" style="background-color: #0d1117; border-collapse: collapse;">
     <tr>
-      <td width="50%" valign="top">
-        <h3>📂 PILOT DATA</h3>
-        <br>
-        <b>&nbsp; ROLE</b> &nbsp; :: &nbsp; <code>SYSTEMS ENGINEER</code> <br>
-        <b>&nbsp; TEAM</b> &nbsp; :: &nbsp; <code>UNIVERSITY OF ALBERTA</code> <br>
-        <b>&nbsp; CORE</b> &nbsp; :: &nbsp; <code>LOW-LATENCY ARCHITECTURE</code> <br>
-        <b>&nbsp; FUEL</b> &nbsp; :: &nbsp; <code>COFFEE && ALGORITHMS</code>
+      <td width="50%" valign="top" style="padding: 20px;">
+        <h3 align="center">📂 PILOT DATA</h3>
+        <table border="0" width="100%">
+            <tr>
+                <td width="30%"><b>ROLE</b></td>
+                <td><code>SYSTEMS ENGINEER</code></td>
+            </tr>
+            <tr>
+                <td><b>TEAM</b></td>
+                <td><code>U OF ALBERTA (CS)</code></td>
+            </tr>
+            <tr>
+                <td><b>CORE</b></td>
+                <td><code>LOW-LATENCY SYS</code></td>
+            </tr>
+            <tr>
+                <td><b>FUEL</b></td>
+                <td><code>COFFEE && ALGORITHMS</code></td>
+            </tr>
+        </table>
       </td>
-      <td width="50%" valign="top">
-        <h3>📡 LIVE STATUS</h3>
-        <br>
-        <b>&nbsp; CURRENT LAP</b> &nbsp; :: &nbsp; <code>ARCHITECTING MIDDLEWARE</code> <br>
-        <b>&nbsp; TRAINING</b> &nbsp; :: &nbsp; <code>3D PIPELINES / GAME ALGO</code> <br>
-        <b>&nbsp; READING</b> &nbsp; :: &nbsp; <code>RL: SUTTON & BARTO</code> <br>
-        <b>&nbsp; TRACK</b> &nbsp; :: &nbsp; 🟢 <code>GREEN (OPEN TO WORK)</code>
+      <td width="50%" valign="top" style="padding: 20px;">
+        <h3 align="center">📡 LIVE STATUS</h3>
+        <table border="0" width="100%">
+            <tr>
+                <td width="30%"><b>LAP</b></td>
+                <td><code>ARCHITECTING_MW</code></td>
+            </tr>
+            <tr>
+                <td><b>FOCUS</b></td>
+                <td><code>3D_PIPELINES // GAME_DEV</code></td>
+            </tr>
+            <tr>
+                <td><b>READ</b></td>
+                <td><code>RL_INTRO (SUTTON)</code></td>
+            </tr>
+            <tr>
+                <td><b>TRACK</b></td>
+                <td>🟢 <code>OPEN_TO_WORK</code></td>
+            </tr>
+        </table>
       </td>
     </tr>
   </table>
