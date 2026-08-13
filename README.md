@@ -41,7 +41,7 @@
         <table border="0" width="100%">
             <tr>
                 <td width="30%"><b>ROLE</b></td>
-                <td><code>SYSTEMS ENGINEER</code></td>
+                <td><code>FULL-STACK // AI</code></td>
             </tr>
             <tr>
                 <td><b>TEAM</b></td>
@@ -66,7 +66,7 @@
             </tr>
             <tr>
                 <td><b>FOCUS</b></td>
-                <td><code>3D_PIPELINES // GAME_DEV</code></td>
+                <td><code>AI_AGENTS // 3D_PIPELINES</code></td>
             </tr>
             <tr>
                 <td><b>READ</b></td>
@@ -88,8 +88,9 @@
 
 | **CHASSIS (CLASS)** | **SPECIFICATIONS** | **ENGINE (TECH)** |
 | :--- | :--- | :--- |
+| **INTELLIGENCE** | **[Leo the Lion](https://github.com/Gfewq/Team)** <br> `RAG_HEALTH_AGENT` <br> *Grounded LLM responses over medical protocols. TELUS Hackathon Top 5.* | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **NEURAL** | **[WebAble](https://github.com/ujjawalsuii/popowich-WebAble)** <br> `ON_DEVICE_INFERENCE` <br> *Hand-written MLP in vanilla JS. Live ASL recognition at 60 FPS.* | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) |
 | **GRAPHICS** | **[C-Ray Engine](https://github.com/ujjawalsuii/c-ray-engine)** <br> `PHYSICS_BASED_RAY_TRACER` <br> *Built from scratch. High performance.* | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **INTELLIGENCE** | **[Leo the Lion](https://github.com/Gfewq/Team)** <br> `AI_HEALTH_COMPANION` <br> *Pediatric health monitoring system.* | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **COMPILER** | **[RISC-V Translator](https://github.com/ujjawalsuii/rv-to-wasm)** <br> `ASM_TO_WASM_STATIC` <br> *Binary translation layer.* | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![WASM](https://img.shields.io/badge/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white) |
 | **MOBILE** | **[Event Lottery](https://github.com/CMPUT301F25aurora/aurora-borealis)** <br> `HIGH_CONCURRENCY_SYS` <br> *Android event management.* | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 
@@ -99,10 +100,10 @@
 
 | **SYSTEM** | **MODULES** |
 | :--- | :--- |
+| **AERO / WEB** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **STRATEGY / AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Math](https://img.shields.io/badge/Mathematics-000000?style=flat-square&logo=latex&logoColor=white) |
 | **KERNEL / LOW** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/RISC_V-5E5E5E?style=flat-square&logo=risc-v&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **AERO / WEB** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **STRATEGY / AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Math](https://img.shields.io/badge/Mathematics-000000?style=flat-square&logo=latex&logoColor=white) |
-| **TOOLS / OPS** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **TOOLS / OPS** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 <br />
 
